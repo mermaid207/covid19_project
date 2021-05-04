@@ -1,0 +1,21 @@
+*{
+    /* 페이지 전체 폰트 적용*/
+    font-family: 'Hi Melody',cursive;
+}
+
+section{
+    width:70%;
+    /*중앙정렬을위한코드*/
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.bar{
+    height : 50px;
+    width : 5px;
+    background-color : red;
+    border :5px solid black;
+    border-radius : 5px;
+    margin-top : 5px;
+    transition : 2s;
+}
